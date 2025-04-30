@@ -1,17 +1,39 @@
-# math_game
+# Inspiration
 
-A fast-paced terminal-based math quiz game written in Python!  
-Test your skills with addition, subtraction, multiplication, and division — but be quick! You only have 10 seconds to answer each question.
+After years of teaching math, I noticed that many students — even older ones — struggled with basic arithmetic operations.
+This game was inspired by a desire to help learners practice fluently and build confidence in a fun, interactive way.
 
 ## Features
 
-**Timed questions** – You have 10 seconds to answer.
-**Score tracking** – Earn more points for faster answers.
-**Four operations** – Choose between addition (+), subtraction (−), multiplication (×) that you can type on keyboard using Alt + 0215 (Windows) or Option + 8 (Mac), and division (÷) that you can type on keyboard using Alt + 0247.
-**Two difficulty levels**:
-  - Level 1: Simple integers
-  - Level 2: Includes negative numbers and more complex problems
-**Colorful feedback** – Uses `colorama` to highlight correct, incorrect, and timed-out responses.
+* Score tracking** – Earn more points for faster answers.
+  
+* Timed questions – You have 10 seconds to answer each one.
+
+* Four operations – Choose from:
+
+Addition (+)
+
+Subtraction (-)
+
+Multiplication (×) (type with Alt + 0215 on Windows or Option + 8 on Mac)
+
+Division (÷) (type with Alt + 0247)
+
+* Two difficulty levels:
+
+Level 1: Simple positive integers
+
+Level 2: Includes negative numbers and more complex expressions
+
+* Colorful feedback – Uses colorama to highlight:
+
+Correct answers (green)
+
+Slow answers (yellow)
+
+Incorrect or timed-out answers (red)
+
+* Score tracking – Earn more points for faster answers
 
 ### Requirements
 
