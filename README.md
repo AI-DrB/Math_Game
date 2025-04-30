@@ -5,7 +5,7 @@ This game was inspired by a desire to help learners practice fluently and build 
 
 ## Features
 
-* Score tracking** – Earn more points for faster answers.
+* Score tracking – Earn more points for faster answers.
   
 * Timed questions – You have 10 seconds to answer each one.
 
