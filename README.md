@@ -4,8 +4,6 @@ After years of teaching math, I noticed that many students — even older ones �
 This game was inspired by a desire to help learners practice fluently and build confidence in a fun, interactive way.
 
 ## Features
-
-* Score tracking – Earn more points for faster answers.
   
 * Timed questions – You have 10 seconds to answer each one.
 
